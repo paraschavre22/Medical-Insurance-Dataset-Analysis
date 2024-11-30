@@ -15,6 +15,6 @@ This project uses the Medical Insurance Dataset to predict insurance costs. The 
 # Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/Medical-Insurance-Dataset-Analysis.git
+git clone https://github.com/paraschavre22/Medical-Insurance-Dataset-Analysis.git
 cd Medical-Insurance-Dataset-Analysis
 MATLAB Setup: Ensure you have MATLAB installed. This project uses the following MATLAB toolboxes:
